@@ -115,6 +115,7 @@ public class EmployeeDaoImpl implements EmployeeDao{
 			//session.close();
 		}
 		
+		System.out.println("added to check...");
 		return employee;
 	}
 
